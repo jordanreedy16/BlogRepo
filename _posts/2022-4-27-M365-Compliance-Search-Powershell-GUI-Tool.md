@@ -25,7 +25,6 @@ tags:
 
  That being said, this is my first attempt at creating a GUI interface for a powershell script I've created, but also it is only my 3rd or 4th script that is actually useful (and complete lol).</div>
 <br />
-<br />
 
 All of the source code can be found on my Github, here -> <a href="https://github.com/jordanreedy16/M365-Email-Deletion-GUI">M365 Email Deletion GUI</a>
 
