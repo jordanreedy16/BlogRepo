@@ -67,11 +67,11 @@ When I do this, I do deletions by ticket number. That way if I need to reference
 
 Here is an example:
 
-![Example1](assets\2022-4-27\Example-Email-Redacted.png)
+![Example1](\assets\2022-4-27\Example-Email-Redacted.png)
 
 When you click the search button, it will create the search in M365 Compliance.
 
-![Example1-SearchCreated](assets\2022-4-27\Search-Created.png)
+![Example1-SearchCreated](\assets\2022-4-27\Search-Created.png)
 
 <br />
 
@@ -84,27 +84,27 @@ I'm not a good programmer, so the window freezes while the search occurs. A side
 (I know I could use runspaces, but I just couldn't figure it out this time. Maybe on the next one, or if I get the desire to rework this application.)
 
 Here is the search inside M365 Compliance.
-![Example1-SearchStarting](assets\2022-4-27\Content-Search-Starting.png)
+![Example1-SearchStarting](\assets\2022-4-27\Content-Search-Starting.png)
 
 
 The GUI is frozen at this point. A dialog box will pop up once finished.
-![Example1-SearchStarting](assets\2022-4-27\GUI-Search-Frozen.png)
+![Example1-SearchStarting](\assets\2022-4-27\GUI-Search-Frozen.png)
 
 Now wait a while. It is sometimes done in a couple minutes, other times it takes about 5 minutes.
 
 When it is done and finds matching emails, it will prompt for confirmation before deletion.
-![Example1-SearchCompleted](assets\2022-4-27\Attention-Dialog-Deletion.png)
+![Example1-SearchCompleted](\assets\2022-4-27\Attention-Dialog-Deletion.png)
 
 Here is how it looks it M365
-![Example1-SearchCompleted](assets\2022-4-27\Content-Search-Completed.png)
+![Example1-SearchCompleted](\assets\2022-4-27\Content-Search-Completed.png)
 
 Now that we have items returned, you can either confirm the emails found inside the M365 Compliance Center, or just delete them if you're confident.
 
 Clicke the "Review" button. The email will eventually load. It takes a couple minutes.
-![Example1-SearchReview](assets\2022-4-27\Content-Search-Review.png)
+![Example1-SearchReview](\assets\2022-4-27\Content-Search-Review.png)
 
 There it is! That's the email I want to delete.
 
-![Example1-SearchSample](assets\2022-4-27\Content-Search-Samples.png)
+![Example1-SearchSample](\assets\2022-4-27\Content-Search-Samples.png)
 
 That's about all there is to it. If you have any questions or comments let me know below. Also, there is always room for improvement so if you have any contructive feedback it is always welcome.
