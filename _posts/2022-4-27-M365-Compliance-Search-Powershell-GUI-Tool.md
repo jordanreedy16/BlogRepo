@@ -27,6 +27,8 @@ tags:
 <br />
 <br />
 
+All of the source code can be found on my Github, here -> <a href="https://github.com/jordanreedy16/M365-Email-Deletion-GUI">M365 Email Deletion GUI</a>
+
 GUI and Terminal View
 
 ![GUI and Terminal](\assets\2022-4-27\GUI-Screenshot-w-terminal.png)
