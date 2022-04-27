@@ -10,7 +10,7 @@ comments: true
 <div class="message">
  I went to school for traditional computer science. I've only recently started to utilize the many hours of coding I did in college, but it turns out the real value is being able to learn about languages and functionality rather than simply reading a book and using it.
 
- That being said, this is my first attempt at creating a GUI interface for a powershell script I've created, but also it is only my 3rd or 4th script that is actually useful (and complete lol). 
+ That being said, this is my first attempt at creating a GUI interface for a powershell script I've created, but also it is only my 3rd or 4th script that is actually useful (and complete lol).</div>
 <br />
 <br />
 
