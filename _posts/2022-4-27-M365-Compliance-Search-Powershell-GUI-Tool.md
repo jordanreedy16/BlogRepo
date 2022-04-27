@@ -5,7 +5,7 @@ categories:
  - Windows
  - Powershell
  - Development
-title: My first Powershell GUI - Email Deletion in M365 Purview (formerly compliance)
+title: My first Powershell GUI - Email Deletion in M365 Purview (Formerly Microsoft Compliance Center)
 comments: true
 tags: 
  - Microsoft 365
