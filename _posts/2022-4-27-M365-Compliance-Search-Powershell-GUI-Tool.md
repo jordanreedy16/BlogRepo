@@ -3,8 +3,21 @@ layout: post
 categories:
  - Microsoft 365
  - Windows
+ - Powershell
+ - Development
 title: My first Powershell GUI - Email Deletion in M365 Purview (formerly compliance)
 comments: true
+tags: 
+ - Microsoft 365
+ - Windows
+ - Powershell
+ - Development
+ - Microsoft Purview
+ - Microsoft Compliance
+ - Exchange Online Powershell
+ - EXO V2 Module
+ - Powershell
+ - Development
 ---
 
 <div class="message">
@@ -13,6 +26,8 @@ comments: true
  That being said, this is my first attempt at creating a GUI interface for a powershell script I've created, but also it is only my 3rd or 4th script that is actually useful (and complete lol).</div>
 <br />
 <br />
+
+GUI and Terminal View
 
 ![GUI and Terminal](\assets\2022-4-27\GUI-Screenshot-w-terminal.png)
 
@@ -58,6 +73,7 @@ When you click the search button, it will create the search in M365 Compliance.
 
 <br />
 
+Here is the created search in M365
 ![Example1-SearchCreated](\assets\2022-4-27\Content-Search-View.png)
 
 ### Run the search
