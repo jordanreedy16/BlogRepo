@@ -45,7 +45,7 @@ Now you should be able to navigate to the nagiostv page: ```http://servername/na
 
 Livestatus now resides with CheckMK, I'll post the specific download link.
 <a href="https://docs.checkmk.com/latest/en/intro.html">CheckMK</a>
-<b>Note:</b> I don't believe they are releasing any more version of Livestatus. The last version I see is 1.5.0p25. Newer releases only offer Checkmk with OMD.
+<b>Note:</b> I don't believe they are releasing any more versions of Livestatus. The last version I see is 1.5.0p25. Newer releases only offer Checkmk with OMD.
 
 
 <a href="https://download.checkmk.com/checkmk/1.5.0p25/mk-livestatus-1.5.0p25.tar.gz">
