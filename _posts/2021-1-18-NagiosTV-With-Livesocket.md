@@ -16,7 +16,7 @@ I'll show you how to do this here, just because it took a bit to get it figured 
 The github repository has an install guide. I'll also post mine here just to keep everything together. It's pretty easy.
 
 ```bash
-$ wget https://github.com/chriscareycode/nagiostv-react/releases/download/v0.7.1/nagiostv-0.7.1.tar.gz
+$ wget https://github.com/chriscareycode/nagiostv-react/releases/download/v0.8.4/nagiostv-0.8.4.tar.gz
 $ tar xvfz nagiostv-0.7.1.tar.gz
 $ sudo mv nagiostv /usr/local/nagiosxi/html/nagiostv
 ```
