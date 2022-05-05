@@ -31,9 +31,10 @@ The github repository has an install guide. I'll also post mine here just to kee
 
 ```bash
 wget https://github.com/chriscareycode/nagiostv-react/releases/download/v0.8.4/nagiostv-0.8.4.tar.gz
-tar xvfz nagiostv-0.7.1.tar.gz
+tar -xvzf nagiostv-0.7.1.tar.gz
 sudo mv nagiostv /usr/local/nagiosxi/html/nagiostv
 sudo chown -R nagios /usr/local/nagiosxi/html/nagiostv
+sudo chgrp -R nagios /usr/local/nagiosxi/html/nagiostv
 ```
 
 Now you should be able to navigate to the nagiostv page: ```http://servername/nagiosxi/nagiostv ```
@@ -65,7 +66,7 @@ sudo apt install rrdtool librrd-dev librrd8 libboost-dev libboost-system-dev
 ```bash
  cd /tmp
  wget https://download.checkmk.com/checkmk/1.5.0p25/mk-livestatus-1.5.0p25.tar.gz
- tar -xzf mk-livestatus-1.5.0p25.tar.gz
+ tar -xzvf mk-livestatus-1.5.0p25.tar.gz
  cd mk-livestatus-1.5.0p25
 ```
 
